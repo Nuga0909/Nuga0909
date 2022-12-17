@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeshina</h1>
 
-
 <h3 align="center">A software engineer who is passionate about solving real-life problems using relevant technology</h3>                                                                                                                                              
 <hr></hr>
 
