@@ -4,7 +4,6 @@
 
 <hr></hr>
 
-
 - ✨ Interests: coding, design, playing computer games, listening to music and eating 😆.
 - 🌱 I’m currently learning **Ruby on Rails, React** and working on side projects. 
 - 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
